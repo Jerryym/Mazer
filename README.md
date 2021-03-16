@@ -39,4 +39,7 @@
     SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), cd);
   }
   ```
-  
+ - Sleep()
+  - 需要加入Windows.h头文件
+  - 函数作用：延时
+  - 毫秒为单位
